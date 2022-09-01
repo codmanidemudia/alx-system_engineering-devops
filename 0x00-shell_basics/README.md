@@ -1,3 +1,4 @@
 1. 0x00-shell_basics directroy created
 2. Display the contents list of your current directory.
 3. Write a script that changes the working directory to the user’s home directory.
+4. Display current directory contents in a long format

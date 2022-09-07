@@ -8,3 +8,5 @@
 6. Write a script that displays the third line of the file iacta.
 7. It is a good file that cuts iron without making a noise
 8. Save current state of directory
+9. write a script that duplicate the line line of a file iacta
+

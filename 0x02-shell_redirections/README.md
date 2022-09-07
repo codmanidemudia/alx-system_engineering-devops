@@ -10,3 +10,4 @@
 8. Save current state of directory
 9. write a script that duplicate the line line of a file iacta
 
+10. Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.

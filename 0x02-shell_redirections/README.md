@@ -5,3 +5,4 @@
 4. Last lines of a file
 
 5. Display the first 10 lines of /etc/passwd
+6. Write a script that displays the third line of the file iacta.
